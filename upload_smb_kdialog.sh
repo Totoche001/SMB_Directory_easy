@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Pour executer:
+# chmod +x upload_smb_kdialog.sh
+# ./upload_smb_kdialog.sh
+
 # === PARAMÈTRES FIXES ===
 SERVER="ip"
 SHARE="Partage/"
