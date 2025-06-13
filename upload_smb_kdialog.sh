@@ -8,7 +8,7 @@
 SERVER="ip"
 SHARE="Partage/"
 USER="name"
-PASSWORD="msp"
+PASSWORD="mdp"
 DEFAULT_REMOTE_FOLDER="dossier_par_defaut"
 
 # === VÉRIFICATION DES DÉPENDANCES ===
